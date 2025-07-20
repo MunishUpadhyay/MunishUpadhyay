@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Crop prediction**
 
-- 🌱 I’m currently learning **Pytorch**
+- 🌱 I’m currently learning **Pytorch & Keras**
 
 - 💬 Ask me about **ML and streamlit**
 
