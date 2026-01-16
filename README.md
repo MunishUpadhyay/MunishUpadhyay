@@ -140,9 +140,9 @@ const munish = {
 
 <div align="center">
 
-## 💡 Random Dev Quote
+## 💡 Words of Wisdom
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Every%20great%20developer%20you%20know%20got%20there%20by%20solving%20problems%20they%20were%20unqualified%20to%20solve%20until%20they%20actually%20did%20it.&author=Patrick%20McKenzie)
 
 </div>
 
