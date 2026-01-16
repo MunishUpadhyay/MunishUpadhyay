@@ -14,10 +14,16 @@
 
 ---
 
+---
+
 <div align="center">
   
 ## 🚀 About Me
 
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored lines">
 </div>
 
 ```typescript
@@ -31,6 +37,30 @@ const munish = {
     strength: "Backend Development with Python"
 };
 ```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored lines">
+  
+  <p>
+    I'm a passionate backend developer with a strong command in Python and Django, constantly exploring the fascinating world of AI and Machine Learning. 
+    I believe in continuous learning and love diving deep into new technologies. 
+    Whether it's building robust backend systems or experimenting with LLM models, I'm always ready to take on new challenges 
+    and create impactful solutions that make a difference.
+  </p>
+  
+  <p>
+    Beyond coding, I enjoy:
+  </p>
+  
+  <div>
+    <img src="https://img.shields.io/badge/📚%20Learning-FF6B6B?style=for-the-badge" alt="Learning"/>
+    <img src="https://img.shields.io/badge/🤖%20AI%20Research-4ECDC4?style=for-the-badge" alt="AI Research"/>
+    <img src="https://img.shields.io/badge/💻%20Problem%20Solving-FFD166?style=for-the-badge" alt="Problem Solving"/>
+    <img src="https://img.shields.io/badge/🎵%20Music-6A0572?style=for-the-badge" alt="Music"/>
+  </div>
+  
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored lines">
+</div>
 
 <div align="center">
   
@@ -50,7 +80,7 @@ const munish = {
 </td>
 <td width="50%">
 
-🎯 **Goals for 2025**
+🎯 **Goals for 2026**
 - Master Django & Python ecosystem
 - Deep dive into AI/ML and LLMs
 - Build production-ready AI applications
