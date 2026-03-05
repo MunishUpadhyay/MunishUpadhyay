@@ -1,14 +1,10 @@
 <div align="center">
 
-<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MUNISH%20UPADHYAY&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MUNISH&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<h3>AI/ML Enthusiast • Django Backend Developer • Building Intelligent Systems</h3>
 
-<h3>AI • ML Enthusiast | Django Backend Developer | Problem Solver</h3>
-
-<!-- Typing Animation -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Django+Backend+Developer;AI+%26+ML+Explorer;Always+Learning+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Django+Backend+Developer;AI+%26+ML+Explorer;Always+Learning+🚀"/>
 
 </div>
 
@@ -29,8 +25,8 @@ const munish = {
     lookingToCollaborate: ["LLM Models", "AI Projects", "Python Development"],
     seekingHelp: ["Backend Optimization", "Python Best Practices", "Machine Learning"],
     askMeAbout: ["Django", "Backend Development", "AI/ML Concepts"],
-    funFact: "Always exploring new technologies and learning something new every day 🎯",
-    lifePhilosophy: "A strong backend is the foundation of great applications.",
+    funFact: "Ready to learn new things and always exploring new technologies! 🎯",
+    lifePhilosophy: "Strong backend is the foundation of great applications.",
     strength: "Backend Development with Python"
 };
 ```
@@ -40,13 +36,9 @@ const munish = {
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 <p>
-I'm a passionate backend developer with strong expertise in Python and Django, 
-while actively exploring the fascinating world of Artificial Intelligence and Machine Learning.
-</p>
-
-<p>
-I enjoy building scalable backend systems, experimenting with LLM models,
-and continuously learning modern technologies that help create impactful solutions.
+I'm a passionate backend developer with a strong command in Python and Django, constantly exploring the fascinating world of AI and Machine Learning.
+I believe in continuous learning and love diving deep into new technologies.
+Whether it's building robust backend systems or experimenting with LLM models, I'm always ready to take on new challenges and create impactful solutions.
 </p>
 
 <p>Beyond coding, I enjoy:</p>
@@ -59,6 +51,25 @@ and continuously learning modern technologies that help create impactful solutio
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
 </div>
+
+---
+
+# 📚 Currently Learning
+
+* Advanced Django Architecture
+* LLM Integration with APIs
+* Machine Learning Model Deployment
+* System Design Fundamentals
+
+---
+
+# 🌟 Featured Projects
+
+| Project                    | Description                                                                                                                    | Tech                       |
+| -------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| **AI Legal Aid Assistant** | AI assistant helping rural citizens understand legal rights                                                                    | Python, LLM, FastAPI       |
+| **YuVA Wellness Platform** | AI-powered wellness platform providing mental health assistance, chatbot interaction, and intelligent wellness recommendations | FastAPI, AI/ML, PostgreSQL |
+| **Expense Splitter App**   | Java Swing application for trip expense management                                                                             | Java, JDBC                 |
 
 ---
 
@@ -96,6 +107,19 @@ and continuously learning modern technologies that help create impactful solutio
 
 ---
 
+# ⚡ Developer Mindset
+
+```
+while(alive){
+    eat();
+    code();
+    learn();
+    repeat();
+}
+```
+
+---
+
 <div align="center">
 
 ## 🛠️ Tech Arsenal
@@ -123,7 +147,7 @@ and continuously learning modern technologies that help create impactful solutio
 ![Django REST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge\&logo=django\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
 
-### 🤖 AI / ML & Data Science
+### 🤖 AI/ML & Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge\&logo=PyTorch\&logoColor=white)
@@ -159,9 +183,7 @@ and continuously learning modern technologies that help create impactful solutio
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=MunishUpadhyay\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
 
@@ -169,17 +191,29 @@ and continuously learning modern technologies that help create impactful solutio
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MunishUpadhyay\&theme=dark\&hide_border=false\&layout=compact)
 
-</div>
+---
+
+# 📊 Developer Metrics
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MunishUpadhyay\&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MunishUpadhyay\&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MunishUpadhyay\&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MunishUpadhyay\&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MunishUpadhyay\&theme=github_dark)
 
 ---
 
-<div align="center">
-
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 [![Munish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MunishUpadhyay\&bg_color=0d1117\&color=00d9ff\&line=00d9ff\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-</div>
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/MunishUpadhyay/MunishUpadhyay/blob/output/github-snake-dark.svg)
 
 ---
 
@@ -197,7 +231,7 @@ and continuously learning modern technologies that help create impactful solutio
 
 ## 🤝 Let's Connect & Collaborate!
 
-Open to exciting opportunities and innovative projects 🚀
+**Open to exciting opportunities and innovative projects**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/munish-upadhyay-74717b28a/)
 
@@ -208,7 +242,9 @@ Open to exciting opportunities and innovative projects 🚀
 ---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=MunishUpadhyay&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://komarev.com/ghpvc/?username=MunishUpadhyay&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
 </div>
 
 <!-- Proudly crafted with passion 🚀 -->
