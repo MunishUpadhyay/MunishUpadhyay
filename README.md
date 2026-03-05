@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=MUNISH%20UPADHYAY&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=MUNISH%20UPADHYAY&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 
 <h3>AI/ML Enthusiast • Django Backend Developer • Building Intelligent Systems</h3>
 
