@@ -183,6 +183,8 @@ while(alive){
 
 ---
 
+<div align="center">
+
 # 📊 GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=MunishUpadhyay\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)
@@ -191,7 +193,11 @@ while(alive){
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MunishUpadhyay\&theme=dark\&hide_border=false\&layout=compact)
 
+</div>
+
 ---
+
+<div align="center">
 
 # 📊 Developer Metrics
 
@@ -203,17 +209,28 @@ while(alive){
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MunishUpadhyay\&theme=github_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MunishUpadhyay\&theme=github_dark)
 
+</div>
+
 ---
+
+<div align="center">
 
 # 📈 Contribution Graph
 
 [![Munish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MunishUpadhyay\&bg_color=0d1117\&color=00d9ff\&line=00d9ff\&point=ffffff\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+</div>
+
+
 ---
+
+<div align="center">
 
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/MunishUpadhyay/MunishUpadhyay/blob/output/github-snake-dark.svg)
+
+</div>
 
 ---
 
