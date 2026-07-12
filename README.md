@@ -28,7 +28,7 @@
 
 # 📊 GitHub Analytics
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MunishUpadhyay&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MunishUpadhyay&theme=tokyonight&hide_border=true&v=20260713" height="160"/>
 
 </div>
 
